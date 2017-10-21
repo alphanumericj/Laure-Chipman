@@ -1,6 +1,6 @@
 ## Laure Chipman, Software Engineer
-## laure@chipmania.com
-## (520) 360-6814
+# laure@chipmania.com
+# (520) 360-6814
 
 ## Education
 University of Alabama in Huntsville, PhD Computer Science 1991
