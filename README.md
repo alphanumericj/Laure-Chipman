@@ -1,5 +1,5 @@
 ## Laure Chipman, Software Engineer
-### laure@chipmania.com
+### <laure@chipmania.com>
 ### (520) 360-6814
 
 ## Education
