@@ -18,7 +18,7 @@ In the Federal Systems Division, and later the Photogrammetry Department, develo
 Developed software for providing real estate agents access to Multiple Listing Service data on their own computers, online or offline. Developed Comparative Market Analysis module, which is a sort of mini-appraisal used by agents for pricing.  C++/C#/.NET
 
 - Cogent3D
-- 2011-Present
+- 2011-2025
 
 Developed software for data collection and analysis for the agriculture industry.  iOS/Xamarin/C#/.NET
 
